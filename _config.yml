@@ -102,5 +102,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/HighmoreJx/HighmoreJx.github.io.git
+  repo: git@github.com:HighmoreJx/HighmoreJx.github.io.git
   branch: master
