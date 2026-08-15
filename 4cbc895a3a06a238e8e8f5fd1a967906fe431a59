@@ -1,0 +1,1834 @@
+themes/next/layout/archive.swig
+  9986a7e42b31a120 1-48
+themes/next/source/css/_common/outline/sidebar/sidebar.styl
+  9986a7e42b31a120 1-51
+themes/next/docs/AUTHORS.md
+  9986a7e42b31a120 85
+themes/next/layout/_partials/header/index.swig
+  9986a7e42b31a120 1-7
+themes/next/source/js/schemes/pisces.js
+  9986a7e42b31a120 1-86
+themes/next/docs/ALGOLIA-SEARCH.md
+  9986a7e42b31a120 1-82
+themes/next/source/css/_common/outline/header/site-meta.styl
+  9986a7e42b31a120 3,11,14-16,33,37-40
+themes/next/languages/es.yml
+  9986a7e42b31a120 30,57,80
+themes/next/source/images/quote-r.svg
+  9986a7e42b31a120 1-12
+themes/next/languages/fr.yml
+  9986a7e42b31a120 16,62-63,75,80,90
+themes/next/layout/_partials/page/breadcrumb.swig
+  9986a7e42b31a120 1-27
+themes/next/.github/issue-close-app.yml
+  9986a7e42b31a120 1-16
+themes/next/source/css/_common/outline/mobile.styl
+  9986a7e42b31a120 1-3,5-6,8-17,19,21-25,27-30,32-35,38-39,41,43,45-48,50-53,55-57,59-61,63-65,70-71,73,75-80,83-87,89
+themes/next/.github/PULL_REQUEST_TEMPLATE.md
+  9986a7e42b31a120 1-2,4,6,10,12-17,24-26,28,34,37,39-40
+themes/next/source/css/_schemes/Mist/_header.styl
+  9986a7e42b31a120 3,7,15,23-24,35,38,44-49,54-55,58-59
+themes/next/source/js/local-search.js
+  9986a7e42b31a120 1-278
+themes/next/layout/_scripts/schemes/muse.swig
+  9986a7e42b31a120 1
+themes/next/languages/zh-CN.yml
+  9986a7e42b31a120 74-75,77
+themes/next/docs/ru/DATA-FILES.md
+  9986a7e42b31a120 1-61
+themes/next/source/css/_common/outline/sidebar/sidebar-author.styl
+  9986a7e42b31a120 3-4,11,13-14,16,18-19,27,34
+themes/next/source/css/_common/outline/header/menu.styl
+  9986a7e42b31a120 4-5,23,27-28,30-34,38,43-54,58-63
+themes/next/layout/_third-party/math/katex.swig
+  9986a7e42b31a120 1-8
+themes/next/source/images/cc-by-sa.svg
+  9986a7e42b31a120 1-121
+themes/next/.eslintrc.json
+  9986a7e42b31a120 1-4
+themes/next/layout/_partials/post/post-footer.swig
+  9986a7e42b31a120 1-7
+themes/next/source/images/quote-l.svg
+  9986a7e42b31a120 1-13
+themes/next/layout/_partials/comments.swig
+  9986a7e42b31a120 1-83
+themes/next/.github/stale.yml
+  9986a7e42b31a120 1-26
+themes/next/scripts/events/index.js
+  9986a7e42b31a120 5-6,10,12-51
+themes/next/languages/de.yml
+  9986a7e42b31a120 80
+themes/next/source/css/_common/components/components.styl
+  9986a7e42b31a120 1-15
+themes/next/source/css/_common/outline/sidebar/sidebar-toggle.styl
+  9986a7e42b31a120 2-10,12-14,16-18,22-23
+themes/next/languages/en.yml
+  9986a7e42b31a120 102-103
+themes/next/docs/DATA-FILES.md
+  9986a7e42b31a120 1-61
+themes/next/layout/_scripts/three.swig
+  9986a7e42b31a120 1-16
+themes/next/layout/_third-party/search/localsearch.swig
+  9986a7e42b31a120 1
+themes/next/package.json
+  9986a7e42b31a120 3,5,7,11,18-19,21,23,25-34
+themes/next/layout/_partials/header/brand.swig
+  9986a7e42b31a120 1-41
+themes/next/source/css/_common/outline/header/bookmark.styl
+  9986a7e42b31a120 1-7,9-10,12-17,20-22
+themes/next/source/css/_common/outline/sidebar/sidebar-dimmer.styl
+  9986a7e42b31a120 1-23
+themes/next/source/js/motion.js
+  9986a7e42b31a120 1,3,8-10,12,15-16,19-22,24-25,30-43,45-53,56,58-60,64-92,94-96,98,100-107,109-111,114-115,118,121,124-154,156-157,161-172,175
+themes/next/layout/_third-party/statistics/cnzz-analytics.swig
+  9986a7e42b31a120 1-5
+themes/next/scripts/tags/tabs.js
+  9986a7e42b31a120 2,5-6,9-10,13-20,22,24-27,29-34,36,38-39,41,43-44,46-48,55-59
+themes/next/docs/LICENSE.txt
+  9986a7e42b31a120 3,29,33,43,54-56
+themes/next/languages/ja.yml
+  9986a7e42b31a120 80
+themes/next/scripts/renderer.js
+  9986a7e42b31a120 1-37
+themes/next/layout/_third-party/statistics/index.swig
+  9986a7e42b31a120 1-4
+themes/next/layout/tag.swig
+  9986a7e42b31a120 1-36
+themes/next/source/css/_common/components/post/post-header.styl
+  9986a7e42b31a120 9,14,16,20,34,38,48,50,55,64,68-69,78,82-84,87,93-96,100
+themes/next/source/css/_schemes/Pisces/_menu.styl
+  9986a7e42b31a120 1-14,17-31,39,42,44-47,56-63
+themes/next/scripts/filters/comment/disqusjs.js
+  9986a7e42b31a120 9-10,13-16,18,20
+themes/next/layout/category.swig
+  9986a7e42b31a120 1-36
+themes/next/source/css/_common/scaffolding/highlight/highlight.styl
+  9986a7e42b31a120 1-151
+themes/next/source/css/_common/components/pages/categories.styl
+  9986a7e42b31a120 21-31
+themes/next/source/css/_common/scaffolding/comments.styl
+  9986a7e42b31a120 32,37-38
+themes/next/source/css/_schemes/Gemini/index.styl
+  9986a7e42b31a120 22-24,30-34,36-41,43-48,52-57,61-67,77-83,85-96,99-116,128-138,143,147,159-161,166-168,172,177-179,184,188,200-203,208-210,214,217-219
+source/_data/body-end.njk
+  9986a7e42b31a120 1-2,4,6-10,14-15
+themes/next/layout/_macro/post.swig
+  9986a7e42b31a120 1-259
+themes/next/layout/_third-party/comments/changyan.swig
+  9986a7e42b31a120 1-17
+themes/next/layout/_partials/head/head.swig
+  9986a7e42b31a120 1-61
+themes/next/source/css/_common/components/post/post-tags.styl
+  9986a7e42b31a120 1-13
+themes/next/source/css/_common/scaffolding/highlight/diff.styl
+  9986a7e42b31a120 1-7
+themes/next/layout/_scripts/noscript.swig
+  9986a7e42b31a120 1-22
+themes/next/scripts/tags/label.js
+  9986a7e42b31a120 2,5-6,9-12,14,16-17,19
+themes/next/source/css/main.styl
+  9986a7e42b31a120 1,4,6,11-12,18,24,30,33,36,41
+themes/next/layout/_macro/sidebar.swig
+  9986a7e42b31a120 1-50
+themes/next/layout/_partials/header/sub-menu.swig
+  9986a7e42b31a120 1-96
+themes/next/scripts/tags/center-quote.js
+  9986a7e42b31a120 2,5-6,9,11-16
+themes/next/source/css/_common/scaffolding/highlight/copy-code.styl
+  9986a7e42b31a120 1,5-6,16,25,41-42,49,51-52,56-64
+themes/next/layout/_third-party/comments/livere.swig
+  9986a7e42b31a120 1-17
+themes/next/source/css/_common/scaffolding/tags/blockquote-center.styl
+  9986a7e42b31a120 3,10-15,21-22,28-29
+themes/next/scripts/filters/comment/valine.js
+  9986a7e42b31a120 1-35
+themes/next/layout/index.swig
+  9986a7e42b31a120 1-20
+themes/next/source/css/_common/outline/sidebar/site-state.styl
+  9986a7e42b31a120 1-9,11-12,14-15,18-19,21,23-32
+themes/next/LICENSE.md
+  9986a7e42b31a120 3,29,33,43,55-56
+themes/next/_config.yml
+  9986a7e42b31a120 3,6-13,15,25-30,39,47-68,70-71,73-82,85-88,96-104,106-107,115,117,120-127,137,141,143,145-148,150,161-162,168,181-190,199-200,205,208,220-227,232,235,252,255,261-262,264,267,278-281,284,287-294,297,300-301,310,315-320,328,348-349,351-352,356-358,362-363,395,400,402,405,407,455-458,466,470,481-482,487-492,497-500,502,505-506,508,515,519,522-524,527-531,535-538,551,554-556,561,569,575,588,591-593,596,604-628,635,652,655-657,659-660,662-664,669,682-683,685-686,688-692,694-705,709,713,717,719,721,726,735-738,741,744-746,754-755,760,763-764,770,772-774,777-808,810-811,813-814,816-817,821,824-876,878-880,882-993
+themes/next/source/css/_schemes/Pisces/_layout.styl
+  9986a7e42b31a120 1-4,6-31,35-36,40-41,45,53-54,56,58,63,68-78,80-91,93-95
+themes/next/source/css/_variables/base.styl
+  9986a7e42b31a120 6-7,65,69,86,112-117,134-135,165,168,186,189-190,192-195,210,219,238,244-245,247,260-265,270-271,273,276-339,347-352
+themes/next/scripts/tags/pdf.js
+  9986a7e42b31a120 2,5-6,9-12,14
+themes/next/scripts/tags/video.js
+  9986a7e42b31a120 2,5-6,9-11,13
+themes/next/layout/_third-party/chat/chatra.swig
+  9986a7e42b31a120 1-22
+themes/next/layout/post.swig
+  9986a7e42b31a120 1-16
+themes/next/source/css/_common/components/pages/breadcrumb.styl
+  9986a7e42b31a120 12,18
+themes/next/layout/_third-party/statistics/firestore.swig
+  9986a7e42b31a120 1-73
+themes/next/layout/_third-party/index.swig
+  9986a7e42b31a120 1-17
+themes/next/layout/_third-party/baidu-push.swig
+  9986a7e42b31a120 1-11
+themes/next/source/css/_common/outline/header/header.styl
+  9986a7e42b31a120 1-33
+themes/next/source/css/_common/outline/header/site-nav.styl
+  9986a7e42b31a120 21-22,24-29
+themes/next/layout/_partials/page/page-header.swig
+  9986a7e42b31a120 1-15
+themes/next/docs/zh-CN/CONTRIBUTING.md
+  9986a7e42b31a120 8,10,38,40,44,46-51,53,55,59,61,64-69,111,129,144,148,150,160,167,169-171,173,194
+themes/next/.github/mergeable.yml
+  9986a7e42b31a120 1-29
+themes/next/docs/zh-CN/CODE_OF_CONDUCT.md
+  9986a7e42b31a120 8,10,12,83,85-86,89-91
+themes/next/source/js/schemes/muse.js
+  9986a7e42b31a120 1-113
+themes/next/source/css/_common/components/post/post-followme.styl
+  9986a7e42b31a120 1-18,20,22,24-27,29-32,35-37
+themes/next/source/css/_common/scaffolding/base.styl
+  9986a7e42b31a120 2-3,17-20,28,31-33,37-38,41,52-54,57,73,91-101
+themes/next/layout/_third-party/chat/tidio.swig
+  9986a7e42b31a120 1-3
+themes/next/source/css/_common/outline/outline.styl
+  9986a7e42b31a120 1-29
+themes/next/source/images/cc-by.svg
+  9986a7e42b31a120 1-121
+themes/next/source/lib/font-awesome/bower.json
+  9986a7e42b31a120 1-22
+themes/next/source/css/_common/scaffolding/tables.styl
+  9986a7e42b31a120 9,24,26-27
+themes/next/docs/ru/README.md
+  9986a7e42b31a120 8,10-25,30,33,38,41-42,45,49,51,55,59,63,66-67,70-71,73,78,86,88,92-113,115-133
+themes/next/scripts/filters/front-matter.js
+  9986a7e42b31a120 1-71
+themes/next/source/css/_common/scaffolding/tags/note.styl
+  9986a7e42b31a120 1-3,5-8,10-30,33-36,38-40,43-44,46,48-50,52-57,60,62,64,67-82,85-86,88-89,94-95,97-98,102,104-106,109-121,124-125,127-128,130-132,136-137,139-140,144,146-163,166-167,169-170,172-175,177-191,193-205,208-217,219-221,224-233,235-238,240-247,250-263,265-266,268-270,272-275,277-289,294-308
+themes/next/source/css/_common/components/back-to-top.styl
+  9986a7e42b31a120 1-12,14-17,19-20,22,24-26,28-30,32-34
+themes/next/docs/zh-CN/MATH.md
+  9986a7e42b31a120 1-243
+themes/next/source/css/_common/components/third-party/third-party.styl
+  9986a7e42b31a120 1-7
+themes/next/source/css/_common/components/reading-progress.styl
+  9986a7e42b31a120 1-8,10-13
+themes/next/source/css/_common/scaffolding/tags/label.styl
+  9986a7e42b31a120 3,6-27
+themes/next/languages/hu.yml
+  9986a7e42b31a120 1-90
+themes/next/source/css/_schemes/Mist/_posts-expand.styl
+  9986a7e42b31a120 5-6,14,22,26-27,30-31,35-36,38-39,43,55,58
+themes/next/layout/_third-party/math/index.swig
+  9986a7e42b31a120 1-20
+themes/next/source/css/_common/components/third-party/math.styl
+  9986a7e42b31a120 1-5
+themes/next/layout/_partials/pagination.swig
+  9986a7e42b31a120 1-12
+themes/next/source/css/_common/components/post/post-rtl.styl
+  9986a7e42b31a120 1-12
+themes/next/.github/config.yml
+  9986a7e42b31a120 15-47
+themes/next/docs/zh-CN/DATA-FILES.md
+  9986a7e42b31a120 1-61
+themes/next/languages/ko.yml
+  9986a7e42b31a120 13,34,54,63,68,74,78
+themes/next/languages/pt-BR.yml
+  9986a7e42b31a120 6-7,12,15-16,20,23-26,30-32,34-37,40-41,44-46,52-54,56-58,60,68,74,80,82,86-89
+themes/next/layout/_third-party/statistics/lean-analytics.swig
+  9986a7e42b31a120 1-99
+themes/next/layout/page.swig
+  9986a7e42b31a120 1-77
+themes/next/scripts/filters/post.js
+  9986a7e42b31a120 10,13-16,20,23-24
+themes/next/source/css/_common/components/post/post-eof.styl
+  9986a7e42b31a120 1-11
+themes/next/source/css/_schemes/Mist/_layout.styl
+  9986a7e42b31a120 18-35,39-41,43,57-58,61
+themes/next/source/js/utils.js
+  9986a7e42b31a120 11-25,27-33,35-43,46,48,61-88,90-94,96-102,106,114,127-128,130,136-139,143-146,148,152,155,157-163,170,175,177-192,199,202-204,210-216,220-228,232-235,237,239-246,248,251-253,255-262,264-270,273-287,289-307,309,312-315,318-320,322-323,326-328,330-335,339-340,342-353,356-366,368-369,371,381-390,392-395,398-401,403-406,408,410-411
+themes/next/source/lib/font-awesome/.bower.json
+  9986a7e42b31a120 1-36
+themes/next/layout/_third-party/analytics/growingio.swig
+  9986a7e42b31a120 1-7
+themes/next/layout/_third-party/comments/disqus.swig
+  9986a7e42b31a120 1-37
+themes/next/.github/ISSUE_TEMPLATE/feature-request.md
+  9986a7e42b31a120 1-37
+themes/next/source/css/_common/components/pages/tag-cloud.styl
+  9986a7e42b31a120 8-9
+themes/next/layout/_partials/head/head-unique.swig
+  9986a7e42b31a120 1-14
+themes/next/source/images/logo.svg
+  9986a7e42b31a120 1-23
+themes/next/layout/_partials/search/algolia-search.swig
+  9986a7e42b31a120 1-14
+themes/next/layout/_third-party/comments/disqusjs.swig
+  9986a7e42b31a120 1-21
+themes/next/source/css/_schemes/Pisces/_sidebar.styl
+  9986a7e42b31a120 1-6,8,11,13-26,29-31,34-35,37-41,43-47,49-55,57,59,64,66-71,73-77,80-83,85-86,89-90,95-96,98,100-101,103-120
+themes/next/.gitattributes
+  9986a7e42b31a120 1
+themes/next/source/css/_common/scaffolding/tags/tabs.styl
+  9986a7e42b31a120 6,8,14,37,44,51,55,60,65-68,71-74,78,86-89,96-106
+themes/next/source/css/_schemes/Muse/_menu.styl
+  9986a7e42b31a120 5-8,18-23,32,39-40,44-45,52,58-62
+themes/next/source/lib/font-awesome/HELP-US-OUT.txt
+  9986a7e42b31a120 1-7
+themes/next/source/css/_common/components/post/post-widgets.styl
+  9986a7e42b31a120 1,3-5,7-19
+themes/next/.github/support.yml
+  9986a7e42b31a120 1-23
+themes/next/layout/_partials/search/localsearch.swig
+  9986a7e42b31a120 1-18
+themes/next/scripts/filters/default-injects.js
+  9986a7e42b31a120 5,8
+themes/next/scripts/filters/comment/livere.js
+  9986a7e42b31a120 9,12-16,18
+themes/next/source/css/_schemes/Pisces/_sub-menu.styl
+  9986a7e42b31a120 2-3,10,19-24,28
+themes/next/source/css/_variables/Mist.styl
+  9986a7e42b31a120 4,13
+themes/next/layout/_third-party/analytics/baidu-analytics.swig
+  9986a7e42b31a120 1-11
+themes/next/layout/_third-party/analytics/index.swig
+  9986a7e42b31a120 1-3
+themes/next/.github/ISSUE_TEMPLATE/other.md
+  9986a7e42b31a120 1-22
+themes/next/scripts/filters/locals.js
+  9986a7e42b31a120 5,8-9,12-13,21,23
+themes/next/languages/pt.yml
+  9986a7e42b31a120 6-7,9,12,15,23,26,30-32,34-37,40-41,53,57,60,74,80,82,88-89
+themes/next/source/css/_schemes/Muse/_sidebar.styl
+  9986a7e42b31a120 1-20,22-24,26-27,31-43,45-60
+themes/next/.github/release-drafter.yml
+  9986a7e42b31a120 1-40
+themes/next/layout/_partials/header/menu-item.swig
+  9986a7e42b31a120 1-34
+themes/next/layout/_partials/sidebar/site-overview.swig
+  9986a7e42b31a120 1-120
+themes/next/scripts/helpers/font.js
+  9986a7e42b31a120 1-2,5-6,10-13,15-18,20,23-25,28-29
+themes/next/source/css/_common/scaffolding/toggles.styl
+  9986a7e42b31a120 6,11-12,16,21-81,83-91
+themes/next/layout/_partials/widgets.swig
+  9986a7e42b31a120 1-20
+themes/next/layout/_third-party/search/algolia-search.swig
+  9986a7e42b31a120 1-6
+themes/next/docs/UPDATE-FROM-5.1.X.md
+  9986a7e42b31a120 1-29
+themes/next/source/css/_common/components/post/post-collapse.styl
+  9986a7e42b31a120 1,17-20,25,37-40,45,51,61,64-65,70-74,77-79,91,100-101,110,116-119
+themes/next/docs/ru/INSTALLATION.md
+  9986a7e42b31a120 1-121
+themes/next/layout/_partials/footer.swig
+  9986a7e42b31a120 1-61
+themes/next/source/css/_common/components/third-party/search.styl
+  9986a7e42b31a120 1-15,17,19-32,35-36,39,42,44-47,50-51,53-54,58-73,75-80,82-83,85,87-88,90-93,95,97-103,105,107-109,111-122,125-127,129-131,133-134,138-140,142-144,147-148,150-151,153-154,160-163,166-169,171-173,175-178,181-191
+themes/next/layout/_third-party/quicklink.swig
+  9986a7e42b31a120 1-17
+themes/next/docs/MATH.md
+  9986a7e42b31a120 1-245
+themes/next/scripts/filters/comment/changyan.js
+  9986a7e42b31a120 10-11,13-17,19,25-26,31-40,43
+themes/next/layout/_partials/languages.swig
+  9986a7e42b31a120 1-16
+themes/next/layout/_partials/post/post-copyright.swig
+  9986a7e42b31a120 1-19
+themes/next/source/css/_schemes/Pisces/_header.styl
+  9986a7e42b31a120 2,4-5,13-15,17-19,21-25
+themes/next/layout/_third-party/comments/valine.swig
+  9986a7e42b31a120 1-29
+themes/next/languages/tr.yml
+  9986a7e42b31a120 80,87,89
+themes/next/scripts/helpers/engine.js
+  9986a7e42b31a120 8,13-15,18-21,25-27,33-50,54-55,59-66
+themes/next/layout/_third-party/statistics/busuanzi-counter.swig
+  9986a7e42b31a120 1-31
+themes/next/layout/_scripts/schemes/mist.swig
+  9986a7e42b31a120 1
+themes/next/scripts/events/lib/injects.js
+  9986a7e42b31a120 5-6,31,45,57,68,72
+themes/next/scripts/tags/mermaid.js
+  9986a7e42b31a120 2,5-6,9-14,16
+themes/next/source/css/_common/outline/sidebar/sidebar-button.styl
+  9986a7e42b31a120 1-2,4,7-9,11,14-22
+themes/next/source/css/_variables/Muse.styl
+  9986a7e42b31a120 4-5
+themes/next/source/css/_common/outline/footer/footer.styl
+  9986a7e42b31a120 1-80
+themes/next/source/images/algolia_logo.svg
+  9986a7e42b31a120 1-9
+themes/next/source/css/_common/scaffolding/scaffolding.styl
+  9986a7e42b31a120 1-12
+themes/next/languages/ru.yml
+  9986a7e42b31a120 2,15,27-29,63,78
+themes/next/source/images/cc-by-nc-sa.svg
+  9986a7e42b31a120 1-121
+themes/next/docs/zh-CN/ALGOLIA-SEARCH.md
+  9986a7e42b31a120 1-80
+themes/next/layout/_partials/header/menu.swig
+  9986a7e42b31a120 1-34
+themes/next/source/css/_mixins.styl
+  9986a7e42b31a120 1-18,73,77-78,84,86-96
+themes/next/source/css/_common/components/post/post-copyright.styl
+  9986a7e42b31a120 1-7
+themes/next/scripts/events/lib/injects-point.js
+  9986a7e42b31a120 1-19
+themes/next/source/css/_common/components/post/post.styl
+  9986a7e42b31a120 1-73
+themes/next/source/css/_common/outline/sidebar/sidebar-nav.styl
+  9986a7e42b31a120 4,12,23-24,27-29,34-36,39-40
+themes/next/layout/_third-party/rating.swig
+  9986a7e42b31a120 1-22
+themes/next/source/css/_common/scaffolding/pagination.styl
+  9986a7e42b31a120 3-6,16,22-23,30-38,40-49,51-56,60-61
+themes/next/scripts/helpers/next-config.js
+  9986a7e42b31a120 5-6,8,11-14,17,20-21,23,28-29,32-36,38-44
+themes/next/.github/CONTRIBUTING.md
+  9986a7e42b31a120 8,10,38,40,44,46-51,53,55,59,61,64-69,111,144,148,150,160,167,169-171,173,195
+themes/next/scripts/tags/button.js
+  9986a7e42b31a120 2,5-6,9,11-14,17,20-27,29-30
+themes/next/source/css/_common/components/third-party/related-posts.styl
+  9986a7e42b31a120 1-23
+themes/next/docs/LEANCLOUD-COUNTER-SECURITY.md
+  9986a7e42b31a120 1-178
+themes/next/layout/_scripts/schemes/pisces.swig
+  9986a7e42b31a120 1
+themes/next/source/css/_schemes/Mist/_menu.styl
+  9986a7e42b31a120 7,12,21,29-40
+themes/next/scripts/events/lib/config.js
+  9986a7e42b31a120 3-5,7-16,19,21-25,27-34,37-38,41,45-46,49,53
+themes/next/source/css/_common/outline/sidebar/sidebar-author-links.styl
+  9986a7e42b31a120 2-6,8-14,16-24
+themes/next/docs/INSTALLATION.md
+  9986a7e42b31a120 1-121
+themes/next/source/images/cc-by-nd.svg
+  9986a7e42b31a120 1-117
+themes/next/.stylintrc
+  9986a7e42b31a120 1-45
+themes/next/source/lib/font-awesome/css/font-awesome.css
+  9986a7e42b31a120 1-2337
+themes/next/source/js/bookmark.js
+  9986a7e42b31a120 1,3,6,10-12,16-21,25,27,29,34,39-40,43-48,52
+themes/next/source/js/next-boot.js
+  9986a7e42b31a120 1,7-14,16-21,23-26,28-34,36-56,58-61,63-73,78-94,100-105,110
+themes/next/layout/_scripts/vendors.swig
+  9986a7e42b31a120 1-47
+themes/next/layout/_third-party/comments/gitalk.swig
+  9986a7e42b31a120 1-28
+themes/next/layout/_scripts/pages/schedule.swig
+  9986a7e42b31a120 1-154
+themes/next/source/css/_common/components/pages/schedule.styl
+  9986a7e42b31a120 14-15,18,27,32-35,38,40,44-50,55,63,66-69,72,74,76-77,92-102
+themes/next/docs/zh-CN/INSTALLATION.md
+  9986a7e42b31a120 1-121
+themes/next/docs/ru/UPDATE-FROM-5.1.X.md
+  9986a7e42b31a120 1-18
+themes/next/.github/ISSUE_TEMPLATE/bug-report.md
+  9986a7e42b31a120 1-64
+themes/next/source/css/_common/outline/header/github-banner.styl
+  9986a7e42b31a120 1-4,6-8,10-11,13,15-16,18-20,22-30,32-35,37-40,42,44-49,51,53-56
+themes/next/layout/_third-party/tags/mermaid.swig
+  9986a7e42b31a120 1-16
+themes/next/source/css/_common/outline/sidebar/sidebar-blogroll.styl
+  9986a7e42b31a120 3,9,14
+themes/next/source/lib/font-awesome/.gitignore
+  9986a7e42b31a120 1-33
+themes/next/.travis.yml
+  9986a7e42b31a120 1-8
+themes/next/languages/zh-HK.yml
+  9986a7e42b31a120 74,77
+themes/next/docs/zh-CN/UPDATE-FROM-5.1.X.md
+  9986a7e42b31a120 1-40
+themes/next/scripts/tags/note.js
+  9986a7e42b31a120 2,5-6,9-13,15-16
+themes/next/source/css/_common/components/post/post-reward.styl
+  9986a7e42b31a120 2-3,5,8-13,15,17-20,24,27-28,33,35,38-39,42-50,52-55
+themes/next/source/images/cc-by-nc-nd.svg
+  9986a7e42b31a120 1-121
+themes/next/source/css/_common/scaffolding/buttons.styl
+  9986a7e42b31a120 10-12
+themes/next/source/css/_schemes/Muse/_header.styl
+  9986a7e42b31a120 1-15,18
+themes/next/source/css/_schemes/Muse/_layout.styl
+  9986a7e42b31a120 1-4,7-8,11,15-16,19-20,23,26-29
+themes/next/layout/_partials/post/post-related.swig
+  9986a7e42b31a120 1-20
+themes/next/source/css/_common/components/back-to-top-sidebar.styl
+  9986a7e42b31a120 1-20
+themes/next/source/css/_common/components/post/post-gallery.styl
+  9986a7e42b31a120 2-6,8-9,12-15,17-19
+themes/next/layout/_scripts/index.swig
+  9986a7e42b31a120 1-18
+themes/next/languages/zh-TW.yml
+  9986a7e42b31a120 7,34,44,48
+themes/next/source/js/algolia-search.js
+  9986a7e42b31a120 1-124
+themes/next/layout/_third-party/tags/pdf.swig
+  9986a7e42b31a120 1-23
+themes/next/.github/CODE_OF_CONDUCT.md
+  9986a7e42b31a120 8,10,12,87-88,91-93
+themes/next/layout/_partials/search/index.swig
+  9986a7e42b31a120 1-11
+themes/next/layout/_partials/post/post-followme.swig
+  9986a7e42b31a120 1-23
+themes/next/scripts/tags/group-pictures.js
+  9986a7e42b31a120 2,5-6,9,15-17,75-76,83,85-87,99-102,104,111-112,115-116,119-121,123,128-131,133,135,138-141
+themes/next/scripts/tags/caniuse.js
+  9986a7e42b31a120 2,5-6,9-12,15,20-23
+themes/next/source/css/_common/components/third-party/gitalk.styl
+  9986a7e42b31a120 1-3,5-6
+themes/next/source/css/_common/outline/sidebar/sidebar-toc.styl
+  9986a7e42b31a120 1-2,4-8,10-12,14-18,20-27,29,31-34,36-37,40-41,43-44,48-51,53-54,56
+themes/next/source/css/_common/scaffolding/tags/tags.styl
+  9986a7e42b31a120 1-8
+themes/next/source/css/_common/components/post/post-nav.styl
+  9986a7e42b31a120 5-6,13,17,29-34,41,44-46
+themes/next/docs/zh-CN/LEANCLOUD-COUNTER-SECURITY.md
+  9986a7e42b31a120 1-191
+themes/next/source/css/_variables/Gemini.styl
+  9986a7e42b31a120 4
+themes/next/scripts/filters/minify.js
+  9986a7e42b31a120 9-11,19-21,24-27,30-33,36-37,41,45,48-51
+themes/next/layout/_third-party/analytics/google-analytics.swig
+  9986a7e42b31a120 1-31
+themes/next/layout/_third-party/math/mathjax.swig
+  9986a7e42b31a120 1-57
+themes/next/source/css/_common/scaffolding/tags/group-pictures.styl
+  9986a7e42b31a120 1-4,6-9,11-13
+themes/next/layout/_partials/post/post-reward.swig
+  9986a7e42b31a120 1-22
+themes/next/.github/lock.yml
+  9986a7e42b31a120 1-38
+themes/next/layout/_scripts/pjax.swig
+  9986a7e42b31a120 1-58
+themes/next/.github/ISSUE_TEMPLATE/question.md
+  9986a7e42b31a120 1-64
+themes/next/layout/_scripts/schemes/gemini.swig
+  9986a7e42b31a120 1
+themes/next/layout/_macro/post-collapse.swig
+  9986a7e42b31a120 1-41
+themes/next/gulpfile.js
+  9986a7e42b31a120 1-48
+themes/next/scripts/filters/comment/default-config.js
+  9986a7e42b31a120 10,17-18,25
+themes/next/docs/zh-CN/README.md
+  9986a7e42b31a120 8,10-25,30,33,38,41-42,45,49,51,55,59-60,63,65,72,77,80-81,84-85,87,92,106,110-131,133-151
+themes/next/layout/_layout.swig
+  9986a7e42b31a120 1-60
+themes/next/source/css/_common/components/pages/pages.styl
+  9986a7e42b31a120 1-5
+themes/next/scripts/filters/comment/common.js
+  9986a7e42b31a120 4,14
+themes/next/source/css/_common/components/post/post-expand.styl
+  9986a7e42b31a120 1-55
+themes/next/source/css/_variables/Pisces.styl
+  9986a7e42b31a120 8-9,50,57-62,65-67
+themes/next/source/images/cc-by-nc.svg
+  9986a7e42b31a120 1-121
+themes/next/.gitignore
+  9986a7e42b31a120 8-19
+themes/next/source/lib/font-awesome/.npmignore
+  9986a7e42b31a120 1-42
+themes/next/layout/_third-party/search/swiftype.swig
+  9986a7e42b31a120 1-8
+themes/next/scripts/filters/comment/gitalk.js
+  9986a7e42b31a120 9,12,14
+themes/next/scripts/helpers/next-url.js
+  9986a7e42b31a120 1-2,6,8-11,13,29,42-43,52,60-61
+themes/next/scripts/filters/comment/disqus.js
+  9986a7e42b31a120 10-11,14-17,19,21,27-28,33,39
+themes/next/source/css/_common/scaffolding/tags/pdf.styl
+  9986a7e42b31a120 1-4
+themes/next/source/css/_common/outline/header/headerband.styl
+  9986a7e42b31a120 1-4
+themes/next/source/css/_common/scaffolding/highlight/theme.styl
+  9986a7e42b31a120 1-137
+themes/next/source/images/cc-zero.svg
+  9986a7e42b31a120 1-72
+themes/next/README.md
+  9986a7e42b31a120 8,10-25,30,33,38,41-42,45,49,51,55,59,63,65,72,77,80-81,84-85,87,92,106,110-134,136-154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "4cbc895a3a06a238e8e8f5fd1a967906fe431a59",
+  "prompts": {
+    "9986a7e42b31a120": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "99c8c837-fcbc-4d85-b7ee-fc814af541f1",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "jiangxu",
+      "messages": [],
+      "total_additions": 13503,
+      "total_deletions": 4379,
+      "accepted_lines": 13572,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "themes/next/layout/_partials/post/post-copyright.swig": {
+          "additions": 19,
+          "accepted_lines": 19
+        },
+        "themes/next/docs/zh-CN/CODE_OF_CONDUCT.md": {
+          "additions": 9,
+          "deletions": 9,
+          "accepted_lines": 9
+        },
+        "themes/next/source/css/_schemes/Muse/_layout.styl": {
+          "additions": 19,
+          "deletions": 12,
+          "accepted_lines": 19
+        },
+        "themes/next/scripts/helpers/font.js": {
+          "additions": 19,
+          "deletions": 15,
+          "accepted_lines": 19
+        },
+        "themes/next/source/css/_common/components/post/post-copyright.styl": {
+          "additions": 7,
+          "accepted_lines": 7
+        },
+        "themes/next/scripts/filters/comment/disqusjs.js": {
+          "additions": 8,
+          "deletions": 6,
+          "accepted_lines": 8
+        },
+        "themes/next/source/css/_common/components/post/post-collapse.styl": {
+          "additions": 32,
+          "deletions": 25,
+          "accepted_lines": 32
+        },
+        "themes/next/layout/_third-party/comments/disqusjs.swig": {
+          "additions": 21,
+          "accepted_lines": 21
+        },
+        "themes/next/layout/_third-party/math/katex.swig": {
+          "additions": 8,
+          "accepted_lines": 8
+        },
+        "themes/next/source/css/_common/components/back-to-top.styl": {
+          "additions": 28,
+          "deletions": 43,
+          "accepted_lines": 28
+        },
+        "themes/next/source/css/_common/scaffolding/comments.styl": {
+          "additions": 3,
+          "accepted_lines": 3
+        },
+        "themes/next/source/css/_common/scaffolding/tables.styl": {
+          "additions": 4,
+          "deletions": 1,
+          "accepted_lines": 4
+        },
+        "themes/next/layout/_partials/header/sub-menu.swig": {
+          "additions": 96,
+          "accepted_lines": 96
+        },
+        "themes/next/source/css/_common/components/post/post.styl": {
+          "additions": 73,
+          "accepted_lines": 73
+        },
+        "themes/next/.github/CONTRIBUTING.md": {
+          "additions": 35,
+          "deletions": 20,
+          "accepted_lines": 35
+        },
+        "themes/next/source/css/_common/scaffolding/highlight/copy-code.styl": {
+          "additions": 19,
+          "deletions": 20,
+          "accepted_lines": 19
+        },
+        "themes/next/source/js/algolia-search.js": {
+          "additions": 124,
+          "accepted_lines": 124
+        },
+        "themes/next/layout/category.swig": {
+          "additions": 36,
+          "accepted_lines": 36
+        },
+        "themes/next/layout/_scripts/vendors.swig": {
+          "additions": 47,
+          "accepted_lines": 47
+        },
+        "themes/next/source/images/cc-by-nd.svg": {
+          "additions": 117,
+          "accepted_lines": 117
+        },
+        "themes/next/source/css/_common/scaffolding/tags/tags.styl": {
+          "additions": 8,
+          "accepted_lines": 8
+        },
+        "themes/next/docs/INSTALLATION.md": {
+          "additions": 121,
+          "accepted_lines": 121
+        },
+        "themes/next/docs/ru/DATA-FILES.md": {
+          "additions": 61,
+          "accepted_lines": 61
+        },
+        "themes/next/source/css/_common/components/post/post-widgets.styl": {
+          "additions": 17,
+          "deletions": 8,
+          "accepted_lines": 17
+        },
+        "themes/next/source/css/main.styl": {
+          "additions": 12,
+          "deletions": 12,
+          "accepted_lines": 12
+        },
+        "themes/next/layout/_third-party/search/algolia-search.swig": {
+          "additions": 6,
+          "accepted_lines": 6
+        },
+        "themes/next/layout/_partials/post/post-related.swig": {
+          "additions": 20,
+          "accepted_lines": 20
+        },
+        "themes/next/docs/LICENSE.txt": {
+          "additions": 7,
+          "deletions": 3,
+          "accepted_lines": 7
+        },
+        "themes/next/layout/_third-party/statistics/firestore.swig": {
+          "additions": 73,
+          "accepted_lines": 73
+        },
+        "themes/next/source/css/_common/scaffolding/tags/blockquote-center.styl": {
+          "additions": 11,
+          "deletions": 8,
+          "accepted_lines": 11
+        },
+        "themes/next/layout/_partials/header/index.swig": {
+          "additions": 7,
+          "accepted_lines": 7
+        },
+        "themes/next/source/css/_common/components/post/post-rtl.styl": {
+          "additions": 12,
+          "accepted_lines": 12
+        },
+        "themes/next/layout/_macro/post.swig": {
+          "additions": 259,
+          "accepted_lines": 259
+        },
+        "package.json": {
+          "additions": 1
+        },
+        "themes/next/languages/pt-BR.yml": {
+          "additions": 37,
+          "deletions": 50,
+          "accepted_lines": 37
+        },
+        "themes/next/source/css/_common/scaffolding/tags/group-pictures.styl": {
+          "additions": 11,
+          "deletions": 17,
+          "accepted_lines": 11
+        },
+        "themes/next/source/images/algolia_logo.svg": {
+          "additions": 9,
+          "accepted_lines": 9
+        },
+        "themes/next/source/css/_schemes/Muse/_sidebar.styl": {
+          "additions": 59,
+          "deletions": 20,
+          "accepted_lines": 59
+        },
+        "themes/next/source/css/_common/components/post/post-header.styl": {
+          "additions": 22,
+          "deletions": 38,
+          "accepted_lines": 22
+        },
+        "themes/next/source/css/_common/components/post/post-followme.styl": {
+          "additions": 33,
+          "deletions": 49,
+          "accepted_lines": 33
+        },
+        "themes/next/layout/_third-party/comments/gitalk.swig": {
+          "additions": 28,
+          "accepted_lines": 28
+        },
+        "themes/next/source/css/_common/outline/outline.styl": {
+          "additions": 29,
+          "accepted_lines": 29
+        },
+        "themes/next/layout/_third-party/quicklink.swig": {
+          "additions": 17,
+          "accepted_lines": 17
+        },
+        "themes/next/layout/_scripts/three.swig": {
+          "additions": 16,
+          "accepted_lines": 16
+        },
+        "themes/next/layout/_third-party/math/index.swig": {
+          "additions": 20,
+          "accepted_lines": 20
+        },
+        "themes/next/languages/pt.yml": {
+          "additions": 24,
+          "deletions": 37,
+          "accepted_lines": 24
+        },
+        "themes/next/scripts/helpers/next-url.js": {
+          "additions": 16,
+          "deletions": 9,
+          "accepted_lines": 16
+        },
+        "themes/next/layout/_third-party/analytics/baidu-analytics.swig": {
+          "additions": 11,
+          "accepted_lines": 11
+        },
+        "themes/next/source/css/_common/outline/sidebar/sidebar-toggle.styl": {
+          "additions": 17,
+          "deletions": 14,
+          "accepted_lines": 17
+        },
+        "themes/next/source/css/_common/scaffolding/buttons.styl": {
+          "additions": 3,
+          "deletions": 1,
+          "accepted_lines": 3
+        },
+        "themes/next/languages/es.yml": {
+          "additions": 3,
+          "deletions": 16,
+          "accepted_lines": 3
+        },
+        "themes/next/source/css/_common/components/third-party/search.styl": {
+          "additions": 148,
+          "deletions": 114,
+          "accepted_lines": 148
+        },
+        "themes/next/_config.yml": {
+          "additions": 519,
+          "deletions": 435,
+          "accepted_lines": 507
+        },
+        "themes/next/layout/_partials/sidebar/site-overview.swig": {
+          "additions": 120,
+          "accepted_lines": 120
+        },
+        "themes/next/scripts/filters/comment/livere.js": {
+          "additions": 7,
+          "deletions": 3,
+          "accepted_lines": 7
+        },
+        "themes/next/layout/_third-party/statistics/cnzz-analytics.swig": {
+          "additions": 5,
+          "accepted_lines": 5
+        },
+        "themes/next/source/css/_common/components/post/post-nav.styl": {
+          "additions": 15,
+          "deletions": 4,
+          "accepted_lines": 15
+        },
+        "themes/next/source/js/local-search.js": {
+          "additions": 278,
+          "accepted_lines": 278
+        },
+        "themes/next/layout/_partials/comments.swig": {
+          "additions": 83,
+          "accepted_lines": 83
+        },
+        "themes/next/source/css/_common/scaffolding/tags/tabs.styl": {
+          "additions": 34,
+          "deletions": 26,
+          "accepted_lines": 34
+        },
+        "themes/next/source/css/_common/components/post/post-reward.styl": {
+          "additions": 35,
+          "deletions": 33,
+          "accepted_lines": 35
+        },
+        "themes/next/layout/_scripts/schemes/muse.swig": {
+          "additions": 1,
+          "accepted_lines": 1
+        },
+        "source/_data/body-end.njk": {
+          "additions": 11,
+          "deletions": 25,
+          "accepted_lines": 11
+        },
+        "themes/next/.stylintrc": {
+          "additions": 45,
+          "accepted_lines": 45
+        },
+        "themes/next/source/css/_common/scaffolding/highlight/theme.styl": {
+          "additions": 137,
+          "accepted_lines": 137
+        },
+        "themes/next/scripts/tags/button.js": {
+          "additions": 20,
+          "deletions": 13,
+          "accepted_lines": 20
+        },
+        "themes/next/scripts/helpers/next-config.js": {
+          "additions": 25,
+          "deletions": 49,
+          "accepted_lines": 25
+        },
+        "themes/next/languages/en.yml": {
+          "additions": 2,
+          "deletions": 16,
+          "accepted_lines": 2
+        },
+        "themes/next/.github/ISSUE_TEMPLATE/feature-request.md": {
+          "additions": 37,
+          "accepted_lines": 37
+        },
+        "themes/next/source/images/logo.svg": {
+          "additions": 23,
+          "deletions": 1,
+          "accepted_lines": 23
+        },
+        "themes/next/source/images/cc-by-sa.svg": {
+          "additions": 121,
+          "accepted_lines": 121
+        },
+        "themes/next/layout/_third-party/search/localsearch.swig": {
+          "additions": 1,
+          "accepted_lines": 1
+        },
+        "themes/next/source/css/_common/components/back-to-top-sidebar.styl": {
+          "additions": 20,
+          "accepted_lines": 20
+        },
+        "themes/next/layout/_partials/search/algolia-search.swig": {
+          "additions": 14,
+          "accepted_lines": 14
+        },
+        "themes/next/package.json": {
+          "additions": 18,
+          "deletions": 31,
+          "accepted_lines": 18
+        },
+        "themes/next/source/css/_schemes/Muse/_header.styl": {
+          "additions": 16,
+          "deletions": 9,
+          "accepted_lines": 16
+        },
+        "themes/next/source/js/bookmark.js": {
+          "additions": 25,
+          "deletions": 28,
+          "accepted_lines": 25
+        },
+        "themes/next/docs/zh-CN/ALGOLIA-SEARCH.md": {
+          "additions": 80,
+          "accepted_lines": 80
+        },
+        "themes/next/layout/_partials/widgets.swig": {
+          "additions": 20,
+          "accepted_lines": 20
+        },
+        "themes/next/scripts/tags/group-pictures.js": {
+          "additions": 37,
+          "deletions": 29,
+          "accepted_lines": 37
+        },
+        "themes/next/source/css/_common/outline/sidebar/sidebar-toc.styl": {
+          "additions": 46,
+          "deletions": 52,
+          "accepted_lines": 46
+        },
+        "themes/next/layout/_partials/languages.swig": {
+          "additions": 16,
+          "accepted_lines": 16
+        },
+        "themes/next/source/js/schemes/pisces.js": {
+          "additions": 86,
+          "accepted_lines": 86
+        },
+        "themes/next/docs/zh-CN/DATA-FILES.md": {
+          "additions": 61,
+          "accepted_lines": 61
+        },
+        "themes/next/source/css/_common/outline/mobile.styl": {
+          "additions": 70,
+          "deletions": 58,
+          "accepted_lines": 70
+        },
+        "themes/next/layout/_third-party/index.swig": {
+          "additions": 17,
+          "accepted_lines": 17
+        },
+        "themes/next/layout/_third-party/tags/mermaid.swig": {
+          "additions": 16,
+          "accepted_lines": 16
+        },
+        "themes/next/.github/mergeable.yml": {
+          "additions": 29,
+          "accepted_lines": 29
+        },
+        "themes/next/source/css/_common/outline/header/site-nav.styl": {
+          "additions": 8,
+          "deletions": 1,
+          "accepted_lines": 8
+        },
+        "themes/next/source/css/_colors.styl": {
+          "deletions": 71
+        },
+        "themes/next/docs/ALGOLIA-SEARCH.md": {
+          "additions": 82,
+          "accepted_lines": 82
+        },
+        "themes/next/source/css/_schemes/Pisces/_menu.styl": {
+          "additions": 43,
+          "deletions": 18,
+          "accepted_lines": 43
+        },
+        "themes/next/layout/post.swig": {
+          "additions": 16,
+          "accepted_lines": 16
+        },
+        "themes/next/layout/_third-party/rating.swig": {
+          "additions": 22,
+          "accepted_lines": 22
+        },
+        "themes/next/source/css/_schemes/Mist/_posts-expand.styl": {
+          "additions": 17,
+          "deletions": 17,
+          "accepted_lines": 17
+        },
+        "themes/next/languages/vi.yml": {
+          "deletions": 13
+        },
+        "themes/next/docs/zh-CN/INSTALLATION.md": {
+          "additions": 121,
+          "accepted_lines": 121
+        },
+        "themes/next/layout/_third-party/analytics/growingio.swig": {
+          "additions": 7,
+          "accepted_lines": 7
+        },
+        "themes/next/source/css/_common/components/post/post-gallery.styl": {
+          "additions": 15,
+          "deletions": 28,
+          "accepted_lines": 15
+        },
+        "themes/next/layout/_partials/head/head-unique.swig": {
+          "additions": 14,
+          "accepted_lines": 14
+        },
+        "themes/next/source/css/_schemes/Pisces/_sub-menu.styl": {
+          "additions": 10,
+          "deletions": 2,
+          "accepted_lines": 10
+        },
+        "themes/next/source/css/_schemes/Mist/_layout.styl": {
+          "additions": 25,
+          "deletions": 1,
+          "accepted_lines": 25
+        },
+        "themes/next/source/css/_schemes/Pisces/_layout.styl": {
+          "additions": 68,
+          "deletions": 16,
+          "accepted_lines": 68
+        },
+        "themes/next/source/css/_common/scaffolding/tags/pdf.styl": {
+          "additions": 4,
+          "deletions": 6,
+          "accepted_lines": 4
+        },
+        "themes/next/scripts/filters/comment/disqus.js": {
+          "additions": 12,
+          "deletions": 10,
+          "accepted_lines": 12
+        },
+        "themes/next/languages/ja.yml": {
+          "additions": 1,
+          "deletions": 14,
+          "accepted_lines": 1
+        },
+        "themes/next/scripts/filters/comment/changyan.js": {
+          "additions": 21,
+          "deletions": 11,
+          "accepted_lines": 21
+        },
+        "themes/next/scripts/tags/label.js": {
+          "additions": 12,
+          "deletions": 6,
+          "accepted_lines": 12
+        },
+        "themes/next/layout/_third-party/analytics/index.swig": {
+          "additions": 3,
+          "accepted_lines": 3
+        },
+        "themes/next/source/css/_common/components/post/post-tags.styl": {
+          "additions": 13,
+          "accepted_lines": 13
+        },
+        "themes/next/source/js/utils.js": {
+          "additions": 288,
+          "deletions": 390,
+          "accepted_lines": 288
+        },
+        "themes/next/source/css/_common/outline/header/bookmark.styl": {
+          "additions": 19,
+          "deletions": 20,
+          "accepted_lines": 19
+        },
+        "themes/next/docs/zh-CN/MATH.md": {
+          "additions": 243,
+          "accepted_lines": 243
+        },
+        "themes/next/source/css/_schemes/Gemini/index.styl": {
+          "additions": 116,
+          "deletions": 19,
+          "accepted_lines": 116
+        },
+        "themes/next/source/css/_mixins.styl": {
+          "additions": 33,
+          "deletions": 231,
+          "accepted_lines": 33
+        },
+        "themes/next/layout/_third-party/statistics/lean-analytics.swig": {
+          "additions": 99,
+          "accepted_lines": 99
+        },
+        "themes/next/layout/_partials/search/index.swig": {
+          "additions": 11,
+          "accepted_lines": 11
+        },
+        "themes/next/source/css/_common/scaffolding/tags/note.styl": {
+          "additions": 269,
+          "deletions": 107,
+          "accepted_lines": 269
+        },
+        "themes/next/languages/ko.yml": {
+          "additions": 7,
+          "deletions": 20,
+          "accepted_lines": 7
+        },
+        "themes/next/.github/lock.yml": {
+          "additions": 38,
+          "accepted_lines": 38
+        },
+        "themes/next/layout/tag.swig": {
+          "additions": 36,
+          "accepted_lines": 36
+        },
+        "themes/next/scripts/tags/mermaid.js": {
+          "additions": 11,
+          "deletions": 14,
+          "accepted_lines": 11
+        },
+        "themes/next/layout/_partials/pagination.swig": {
+          "additions": 12,
+          "accepted_lines": 12
+        },
+        "themes/next/source/css/_common/outline/sidebar/sidebar-blogroll.styl": {
+          "additions": 3,
+          "deletions": 15,
+          "accepted_lines": 3
+        },
+        "themes/next/layout/_partials/post/post-followme.swig": {
+          "additions": 23,
+          "accepted_lines": 23
+        },
+        "themes/next/source/lib/font-awesome/css/font-awesome.css": {
+          "additions": 2337,
+          "accepted_lines": 2337
+        },
+        "themes/next/.github/issue-close-app.yml": {
+          "additions": 16,
+          "accepted_lines": 16
+        },
+        "themes/next/layout/_third-party/comments/livere.swig": {
+          "additions": 17,
+          "accepted_lines": 17
+        },
+        "themes/next/source/css/_common/components/third-party/gitalk.styl": {
+          "additions": 6,
+          "deletions": 24,
+          "accepted_lines": 6
+        },
+        "themes/next/docs/ru/README.md": {
+          "additions": 79,
+          "deletions": 143,
+          "accepted_lines": 79
+        },
+        "themes/next/languages/zh-HK.yml": {
+          "additions": 2,
+          "deletions": 15,
+          "accepted_lines": 2
+        },
+        "themes/next/source/css/_common/outline/sidebar/site-state.styl": {
+          "additions": 27,
+          "deletions": 22,
+          "accepted_lines": 27
+        },
+        "themes/next/source/js/motion.js": {
+          "additions": 139,
+          "deletions": 122,
+          "accepted_lines": 139
+        },
+        "themes/next/source/js/next-boot.js": {
+          "additions": 89,
+          "deletions": 76,
+          "accepted_lines": 89
+        },
+        "themes/next/source/css/_common/scaffolding/highlight/highlight.styl": {
+          "additions": 151,
+          "accepted_lines": 151
+        },
+        "themes/next/languages/hu.yml": {
+          "additions": 90,
+          "accepted_lines": 90
+        },
+        "themes/next/layout/_third-party/search/swiftype.swig": {
+          "additions": 8,
+          "accepted_lines": 8
+        },
+        "themes/next/source/css/_common/outline/sidebar/sidebar.styl": {
+          "additions": 51,
+          "accepted_lines": 51
+        },
+        "themes/next/scripts/filters/comment/common.js": {
+          "additions": 2,
+          "deletions": 2,
+          "accepted_lines": 2
+        },
+        "themes/next/layout/_scripts/noscript.swig": {
+          "additions": 22,
+          "accepted_lines": 22
+        },
+        "themes/next/layout/_third-party/chat/tidio.swig": {
+          "additions": 3,
+          "accepted_lines": 3
+        },
+        "themes/next/source/css/_variables/Mist.styl": {
+          "additions": 2,
+          "deletions": 12,
+          "accepted_lines": 2
+        },
+        "themes/next/source/css/_common/components/third-party/math.styl": {
+          "additions": 5,
+          "deletions": 8,
+          "accepted_lines": 5
+        },
+        "themes/next/scripts/filters/comment/gitalk.js": {
+          "additions": 3,
+          "deletions": 3,
+          "accepted_lines": 3
+        },
+        "themes/next/scripts/tags/caniuse.js": {
+          "additions": 12,
+          "deletions": 5,
+          "accepted_lines": 12
+        },
+        "themes/next/layout/_third-party/baidu-push.swig": {
+          "additions": 11,
+          "accepted_lines": 11
+        },
+        "themes/next/scripts/filters/post.js": {
+          "additions": 8,
+          "deletions": 16,
+          "accepted_lines": 8
+        },
+        "themes/next/docs/LEANCLOUD-COUNTER-SECURITY.md": {
+          "additions": 178,
+          "accepted_lines": 178
+        },
+        "themes/next/layout/_scripts/index.swig": {
+          "additions": 18,
+          "accepted_lines": 18
+        },
+        "source/_posts/tui-便捷的终端管理.md": {
+          "accepted_lines": 82
+        },
+        "themes/next/source/css/_common/components/pages/breadcrumb.styl": {
+          "additions": 2,
+          "deletions": 2,
+          "accepted_lines": 2
+        },
+        "themes/next/docs/DATA-FILES.md": {
+          "additions": 61,
+          "accepted_lines": 61
+        },
+        "themes/next/scripts/tags/center-quote.js": {
+          "additions": 10,
+          "deletions": 5,
+          "accepted_lines": 10
+        },
+        "themes/next/scripts/filters/locals.js": {
+          "additions": 7,
+          "deletions": 18,
+          "accepted_lines": 7
+        },
+        "themes/next/source/css/_common/components/third-party/third-party.styl": {
+          "additions": 7,
+          "accepted_lines": 7
+        },
+        "themes/next/.github/stale.yml": {
+          "additions": 26,
+          "accepted_lines": 26
+        },
+        "themes/next/source/css/_schemes/Pisces/_header.styl": {
+          "additions": 14,
+          "deletions": 22,
+          "accepted_lines": 14
+        },
+        "themes/next/layout/_third-party/statistics/index.swig": {
+          "additions": 4,
+          "accepted_lines": 4
+        },
+        "themes/next/source/lib/font-awesome/bower.json": {
+          "additions": 22,
+          "accepted_lines": 22
+        },
+        "themes/next/scripts/filters/default-injects.js": {
+          "additions": 2,
+          "deletions": 2,
+          "accepted_lines": 2
+        },
+        "themes/next/source/css/_common/scaffolding/scaffolding.styl": {
+          "additions": 12,
+          "accepted_lines": 12
+        },
+        "themes/next/.github/config.yml": {
+          "additions": 33,
+          "accepted_lines": 33
+        },
+        "themes/next/source/css/_schemes/Mist/_menu.styl": {
+          "additions": 15,
+          "deletions": 10,
+          "accepted_lines": 15
+        },
+        "themes/next/layout/_third-party/tags/pdf.swig": {
+          "additions": 23,
+          "accepted_lines": 23
+        },
+        "themes/next/languages/fr.yml": {
+          "additions": 6,
+          "deletions": 19,
+          "accepted_lines": 6
+        },
+        "themes/next/scripts/events/lib/injects.js": {
+          "additions": 7,
+          "deletions": 7,
+          "accepted_lines": 7
+        },
+        "themes/next/docs/zh-CN/LEANCLOUD-COUNTER-SECURITY.md": {
+          "additions": 191,
+          "accepted_lines": 191
+        },
+        "themes/next/scripts/filters/comment/valine.js": {
+          "additions": 35,
+          "accepted_lines": 35
+        },
+        "themes/next/source/css/_variables/Pisces.styl": {
+          "additions": 12,
+          "deletions": 20,
+          "accepted_lines": 12
+        },
+        "themes/next/layout/_third-party/analytics/google-analytics.swig": {
+          "additions": 31,
+          "accepted_lines": 31
+        },
+        "themes/next/.github/CODE_OF_CONDUCT.md": {
+          "additions": 8,
+          "deletions": 8,
+          "accepted_lines": 8
+        },
+        "themes/next/layout/_third-party/comments/changyan.swig": {
+          "additions": 17,
+          "accepted_lines": 17
+        },
+        "themes/next/.github/ISSUE_TEMPLATE/other.md": {
+          "additions": 22,
+          "accepted_lines": 22
+        },
+        "themes/next/source/css/_common/components/pages/categories.styl": {
+          "additions": 11,
+          "deletions": 2,
+          "accepted_lines": 11
+        },
+        "themes/next/docs/UPDATE-FROM-5.1.X.md": {
+          "additions": 29,
+          "accepted_lines": 29
+        },
+        "themes/next/source/css/_common/components/post/post-expand.styl": {
+          "additions": 55,
+          "accepted_lines": 55
+        },
+        "themes/next/layout/_macro/sidebar.swig": {
+          "additions": 50,
+          "accepted_lines": 50
+        },
+        "themes/next/docs/AUTHORS.md": {
+          "additions": 1,
+          "deletions": 1,
+          "accepted_lines": 1
+        },
+        "themes/next/source/css/_common/components/reading-progress.styl": {
+          "additions": 12,
+          "deletions": 24,
+          "accepted_lines": 12
+        },
+        "themes/next/docs/zh-CN/UPDATE-FROM-5.1.X.md": {
+          "additions": 40,
+          "accepted_lines": 40
+        },
+        "themes/next/source/css/_common/components/pages/schedule.styl": {
+          "additions": 38,
+          "deletions": 36,
+          "accepted_lines": 38
+        },
+        "themes/next/source/css/_common/outline/header/menu.styl": {
+          "additions": 30,
+          "deletions": 13,
+          "accepted_lines": 30
+        },
+        "themes/next/.gitattributes": {
+          "additions": 1,
+          "deletions": 1,
+          "accepted_lines": 1
+        },
+        "themes/next/source/css/_common/outline/header/header.styl": {
+          "additions": 33,
+          "accepted_lines": 33
+        },
+        "themes/next/layout/_third-party/math/mathjax.swig": {
+          "additions": 57,
+          "accepted_lines": 57
+        },
+        "themes/next/source/css/_common/outline/sidebar/sidebar-author-links.styl": {
+          "additions": 22,
+          "deletions": 6,
+          "accepted_lines": 22
+        },
+        "themes/next/source/css/_common/outline/header/site-meta.styl": {
+          "additions": 10,
+          "deletions": 13,
+          "accepted_lines": 10
+        },
+        "themes/next/source/images/cc-zero.svg": {
+          "additions": 72,
+          "accepted_lines": 72
+        },
+        "themes/next/gulpfile.js": {
+          "additions": 48,
+          "accepted_lines": 48
+        },
+        "themes/next/layout/_third-party/chat/chatra.swig": {
+          "additions": 22,
+          "accepted_lines": 22
+        },
+        "themes/next/source/css/_common/outline/sidebar/sidebar-dimmer.styl": {
+          "additions": 23,
+          "accepted_lines": 23
+        },
+        "themes/next/docs/zh-CN/README.md": {
+          "additions": 81,
+          "deletions": 128,
+          "accepted_lines": 81
+        },
+        "themes/next/source/css/_variables/Muse.styl": {
+          "additions": 2,
+          "deletions": 3,
+          "accepted_lines": 2
+        },
+        "themes/next/source/lib/font-awesome/.gitignore": {
+          "additions": 33,
+          "accepted_lines": 33
+        },
+        "themes/next/languages/fa.yml": {
+          "deletions": 13
+        },
+        "themes/next/layout/_partials/head/head.swig": {
+          "additions": 61,
+          "accepted_lines": 61
+        },
+        "themes/next/source/images/cc-by-nc-sa.svg": {
+          "additions": 121,
+          "accepted_lines": 121
+        },
+        "themes/next/.travis.yml": {
+          "additions": 8,
+          "accepted_lines": 8
+        },
+        "themes/next/languages/ru.yml": {
+          "additions": 7,
+          "deletions": 20,
+          "accepted_lines": 7
+        },
+        "themes/next/languages/zh-TW.yml": {
+          "additions": 4,
+          "deletions": 17,
+          "accepted_lines": 4
+        },
+        "themes/next/source/css/_schemes/Pisces/_sidebar.styl": {
+          "additions": 94,
+          "deletions": 59,
+          "accepted_lines": 94
+        },
+        "themes/next/README.md": {
+          "additions": 84,
+          "deletions": 128,
+          "accepted_lines": 84
+        },
+        "themes/next/scripts/events/index.js": {
+          "additions": 43,
+          "deletions": 23,
+          "accepted_lines": 43
+        },
+        "themes/next/scripts/filters/front-matter.js": {
+          "additions": 71,
+          "accepted_lines": 71
+        },
+        "themes/next/scripts/filters/minify.js": {
+          "additions": 22,
+          "deletions": 121,
+          "accepted_lines": 22
+        },
+        "themes/next/layout/page.swig": {
+          "additions": 77,
+          "accepted_lines": 77
+        },
+        "themes/next/source/css/_common/components/components.styl": {
+          "additions": 15,
+          "accepted_lines": 15
+        },
+        "themes/next/source/css/_schemes/Pisces/index.styl": {
+          "deletions": 25
+        },
+        "themes/next/scripts/tags/video.js": {
+          "additions": 8,
+          "deletions": 4,
+          "accepted_lines": 8
+        },
+        "themes/next/source/css/_schemes/Mist/_header.styl": {
+          "additions": 18,
+          "deletions": 11,
+          "accepted_lines": 18
+        },
+        "themes/next/layout/_third-party/comments/valine.swig": {
+          "additions": 29,
+          "accepted_lines": 29
+        },
+        "themes/next/languages/ar.yml": {
+          "deletions": 13
+        },
+        "themes/next/source/images/cc-by.svg": {
+          "additions": 121,
+          "accepted_lines": 121
+        },
+        "themes/next/.github/release-drafter.yml": {
+          "additions": 40,
+          "accepted_lines": 40
+        },
+        "themes/next/languages/tr.yml": {
+          "additions": 3,
+          "deletions": 16,
+          "accepted_lines": 3
+        },
+        "themes/next/scripts/tags/pdf.js": {
+          "additions": 9,
+          "deletions": 5,
+          "accepted_lines": 9
+        },
+        "themes/next/layout/_macro/post-collapse.swig": {
+          "additions": 41,
+          "accepted_lines": 41
+        },
+        "themes/next/languages/zh-CN.yml": {
+          "additions": 3,
+          "deletions": 16,
+          "accepted_lines": 3
+        },
+        "themes/next/LICENSE.md": {
+          "additions": 7,
+          "deletions": 3,
+          "accepted_lines": 7
+        },
+        "themes/next/languages/uk.yml": {
+          "deletions": 13
+        },
+        "themes/next/scripts/filters/comment/default-config.js": {
+          "additions": 4,
+          "deletions": 4,
+          "accepted_lines": 4
+        },
+        "themes/next/source/css/_common/components/pages/tag-cloud.styl": {
+          "additions": 2,
+          "deletions": 31,
+          "accepted_lines": 2
+        },
+        "themes/next/languages/it.yml": {
+          "deletions": 13
+        },
+        "themes/next/scripts/renderer.js": {
+          "additions": 37,
+          "accepted_lines": 37
+        },
+        "themes/next/source/css/_common/scaffolding/toggles.styl": {
+          "additions": 74,
+          "deletions": 13,
+          "accepted_lines": 74
+        },
+        "themes/next/layout/_scripts/pjax.swig": {
+          "additions": 58,
+          "accepted_lines": 58
+        },
+        "themes/next/scripts/tags/note.js": {
+          "additions": 11,
+          "deletions": 20,
+          "accepted_lines": 11
+        },
+        "themes/next/languages/nl.yml": {
+          "deletions": 13
+        },
+        "themes/next/scripts/events/lib/config.js": {
+          "additions": 35,
+          "deletions": 37,
+          "accepted_lines": 35
+        },
+        "themes/next/docs/zh-CN/CONTRIBUTING.md": {
+          "additions": 36,
+          "deletions": 21,
+          "accepted_lines": 36
+        },
+        "themes/next/languages/id.yml": {
+          "deletions": 13
+        },
+        "themes/next/layout/_third-party/statistics/busuanzi-counter.swig": {
+          "additions": 31,
+          "accepted_lines": 31
+        },
+        "themes/next/source/lib/font-awesome/.npmignore": {
+          "additions": 42,
+          "accepted_lines": 42
+        },
+        "themes/next/layout/_partials/page/page-header.swig": {
+          "additions": 15,
+          "accepted_lines": 15
+        },
+        "themes/next/layout/_partials/header/menu.swig": {
+          "additions": 34,
+          "accepted_lines": 34
+        },
+        "themes/next/source/css/_common/components/third-party/related-posts.styl": {
+          "additions": 23,
+          "accepted_lines": 23
+        },
+        "themes/next/source/css/_common/outline/sidebar/sidebar-nav.styl": {
+          "additions": 12,
+          "deletions": 100,
+          "accepted_lines": 12
+        },
+        "themes/next/source/lib/font-awesome/HELP-US-OUT.txt": {
+          "additions": 7,
+          "accepted_lines": 7
+        },
+        "themes/next/source/images/quote-l.svg": {
+          "additions": 13,
+          "accepted_lines": 13
+        },
+        "themes/next/layout/_third-party/comments/disqus.swig": {
+          "additions": 37,
+          "accepted_lines": 37
+        },
+        "themes/next/layout/_scripts/schemes/gemini.swig": {
+          "additions": 1,
+          "accepted_lines": 1
+        },
+        "themes/next/source/images/cc-by-nc.svg": {
+          "additions": 121,
+          "accepted_lines": 121
+        },
+        "themes/next/scripts/helpers/engine.js": {
+          "additions": 41,
+          "deletions": 81,
+          "accepted_lines": 41
+        },
+        "themes/next/source/images/cc-by-nc-nd.svg": {
+          "additions": 121,
+          "accepted_lines": 121
+        },
+        "themes/next/layout/_scripts/pages/schedule.swig": {
+          "additions": 154,
+          "accepted_lines": 154
+        },
+        "themes/next/source/images/quote-r.svg": {
+          "additions": 12,
+          "accepted_lines": 12
+        },
+        "themes/next/source/css/_common/outline/sidebar/sidebar-button.styl": {
+          "additions": 18,
+          "deletions": 8,
+          "accepted_lines": 18
+        },
+        "themes/next/source/css/_schemes/Muse/_menu.styl": {
+          "additions": 30,
+          "deletions": 17,
+          "accepted_lines": 30
+        },
+        "themes/next/source/css/_common/outline/header/headerband.styl": {
+          "additions": 4,
+          "accepted_lines": 4
+        },
+        "themes/next/layout/_partials/page/breadcrumb.swig": {
+          "additions": 27,
+          "accepted_lines": 27
+        },
+        "themes/next/source/lib/font-awesome/.bower.json": {
+          "additions": 36,
+          "accepted_lines": 36
+        },
+        "themes/next/layout/_partials/footer.swig": {
+          "additions": 61,
+          "accepted_lines": 61
+        },
+        "themes/next/layout/_layout.swig": {
+          "additions": 60,
+          "accepted_lines": 60
+        },
+        "themes/next/source/css/_common/scaffolding/highlight/diff.styl": {
+          "additions": 7,
+          "accepted_lines": 7
+        },
+        "themes/next/layout/_partials/post/post-footer.swig": {
+          "additions": 7,
+          "accepted_lines": 7
+        },
+        "themes/next/.eslintrc.json": {
+          "additions": 4,
+          "accepted_lines": 4
+        },
+        "themes/next/languages/de.yml": {
+          "additions": 1,
+          "deletions": 14,
+          "accepted_lines": 1
+        },
+        "themes/next/.github/ISSUE_TEMPLATE/bug-report.md": {
+          "additions": 64,
+          "accepted_lines": 64
+        },
+        "themes/next/source/css/_common/scaffolding/tags/label.styl": {
+          "additions": 23,
+          "deletions": 4,
+          "accepted_lines": 23
+        },
+        "themes/next/layout/_partials/header/menu-item.swig": {
+          "additions": 34,
+          "accepted_lines": 34
+        },
+        "themes/next/layout/_scripts/schemes/pisces.swig": {
+          "additions": 1,
+          "accepted_lines": 1
+        },
+        "themes/next/.gitignore": {
+          "additions": 12,
+          "deletions": 4,
+          "accepted_lines": 12
+        },
+        "themes/next/scripts/events/lib/injects-point.js": {
+          "additions": 19,
+          "accepted_lines": 19
+        },
+        "themes/next/layout/_partials/post/post-reward.swig": {
+          "additions": 22,
+          "accepted_lines": 22
+        },
+        "themes/next/scripts/tags/tabs.js": {
+          "additions": 40,
+          "deletions": 28,
+          "accepted_lines": 40
+        },
+        "themes/next/source/css/_common/scaffolding/pagination.styl": {
+          "additions": 35,
+          "deletions": 22,
+          "accepted_lines": 35
+        },
+        "themes/next/source/css/_common/outline/sidebar/sidebar-author.styl": {
+          "additions": 10,
+          "deletions": 4,
+          "accepted_lines": 10
+        },
+        "themes/next/source/css/_common/components/pages/pages.styl": {
+          "additions": 5,
+          "accepted_lines": 5
+        },
+        "themes/next/.github/PULL_REQUEST_TEMPLATE.md": {
+          "additions": 20,
+          "deletions": 20,
+          "accepted_lines": 20
+        },
+        "themes/next/layout/archive.swig": {
+          "additions": 48,
+          "accepted_lines": 48
+        },
+        "themes/next/source/css/_variables/Gemini.styl": {
+          "additions": 1,
+          "deletions": 1,
+          "accepted_lines": 1
+        },
+        "themes/next/layout/_partials/header/brand.swig": {
+          "additions": 41,
+          "accepted_lines": 41
+        },
+        "themes/next/layout/_partials/search/localsearch.swig": {
+          "additions": 18,
+          "accepted_lines": 18
+        },
+        "themes/next/docs/ru/UPDATE-FROM-5.1.X.md": {
+          "additions": 18,
+          "accepted_lines": 18
+        },
+        "themes/next/.github/ISSUE_TEMPLATE/question.md": {
+          "additions": 64,
+          "accepted_lines": 64
+        },
+        "themes/next/source/css/_common/scaffolding/base.styl": {
+          "additions": 32,
+          "deletions": 26,
+          "accepted_lines": 32
+        },
+        "themes/next/layout/_scripts/schemes/mist.swig": {
+          "additions": 1,
+          "accepted_lines": 1
+        },
+        "themes/next/source/css/_common/outline/footer/footer.styl": {
+          "additions": 80,
+          "accepted_lines": 80
+        },
+        "themes/next/layout/index.swig": {
+          "additions": 20,
+          "accepted_lines": 20
+        },
+        "themes/next/docs/MATH.md": {
+          "additions": 245,
+          "accepted_lines": 245
+        },
+        "themes/next/source/css/_common/components/post/post-eof.styl": {
+          "additions": 11,
+          "accepted_lines": 11
+        },
+        "themes/next/source/js/schemes/muse.js": {
+          "additions": 113,
+          "accepted_lines": 113
+        },
+        "themes/next/source/css/_variables/base.styl": {
+          "additions": 109,
+          "deletions": 177,
+          "accepted_lines": 109
+        },
+        "themes/next/source/css/_schemes/Mist/index.styl": {
+          "deletions": 1
+        },
+        "themes/next/.github/support.yml": {
+          "additions": 23,
+          "accepted_lines": 23
+        },
+        "themes/next/source/css/_common/outline/header/github-banner.styl": {
+          "additions": 44,
+          "deletions": 43,
+          "accepted_lines": 44
+        },
+        "themes/next/docs/ru/INSTALLATION.md": {
+          "additions": 121,
+          "accepted_lines": 121
+        }
+      }
+    }
+  }
+}
