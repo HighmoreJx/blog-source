@@ -1,0 +1,51 @@
+themes/next/_config.yml
+  9986a7e42b31a120 167
+source/tags/index.md
+  9986a7e42b31a120 1-5
+source/categories/index.md
+  9986a7e42b31a120 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "de7b121a565b35dfba333feec6cf25848db301e7",
+  "prompts": {
+    "9986a7e42b31a120": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "99c8c837-fcbc-4d85-b7ee-fc814af541f1",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "jiangxu",
+      "messages": [],
+      "total_additions": 966,
+      "total_deletions": 3,
+      "accepted_lines": 1046,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "source/categories/index.md": {
+          "additions": 6,
+          "deletions": 1,
+          "accepted_lines": 5
+        },
+        "source/tags/index.md": {
+          "additions": 6,
+          "deletions": 1,
+          "accepted_lines": 5
+        },
+        "source/_posts/tui-便捷的终端管理.md": {
+          "accepted_lines": 82
+        },
+        "source/images/avatar.png": {
+          "additions": 953,
+          "accepted_lines": 953
+        },
+        "themes/next/_config.yml": {
+          "additions": 1,
+          "deletions": 1,
+          "accepted_lines": 1
+        }
+      }
+    }
+  }
+}
