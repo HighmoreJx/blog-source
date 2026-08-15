@@ -1,0 +1,33 @@
+source/_posts/TUI-便捷的终端管理.md
+  9986a7e42b31a120 1-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "f4444e729d18b8154ef29e64aec347f1f8a9d20c",
+  "prompts": {
+    "9986a7e42b31a120": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "99c8c837-fcbc-4d85-b7ee-fc814af541f1",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "jiangxu",
+      "messages": [],
+      "total_additions": 169,
+      "total_deletions": 0,
+      "accepted_lines": 169,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "source/_posts/tui-便捷的终端管理.md": {
+          "additions": 82,
+          "accepted_lines": 82
+        },
+        "source/_posts/TUI-便捷的终端管理.md": {
+          "additions": 87,
+          "accepted_lines": 87
+        }
+      }
+    }
+  }
+}
