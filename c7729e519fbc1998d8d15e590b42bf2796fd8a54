@@ -1,0 +1,30 @@
+_config.yml
+  9986a7e42b31a120 105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "c7729e519fbc1998d8d15e590b42bf2796fd8a54",
+  "prompts": {
+    "9986a7e42b31a120": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "99c8c837-fcbc-4d85-b7ee-fc814af541f1",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "jiangxu",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "_config.yml": {
+          "additions": 1,
+          "deletions": 1,
+          "accepted_lines": 1
+        }
+      }
+    }
+  }
+}
