@@ -1,0 +1,35 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "630e766d92171671c210d88cdbe8bd50b2068cd8",
+  "prompts": {
+    "9986a7e42b31a120": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "99c8c837-fcbc-4d85-b7ee-fc814af541f1",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "jiangxu",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 1523,
+      "accepted_lines": 0,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "source/_posts/生命周期简单理解.md": {
+          "deletions": 66
+        },
+        "source/_posts/Objective-Code-Style.md": {
+          "deletions": 279
+        },
+        "source/_posts/RxSwift基础整理.md": {
+          "deletions": 1059
+        },
+        "source/_posts/布局流程简单整理.md": {
+          "deletions": 119
+        }
+      }
+    }
+  }
+}
